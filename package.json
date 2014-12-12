@@ -1,0 +1,27 @@
+{
+  "name": "RapGenerator",
+  "version": "0.0.0",
+  "description": "Generate cool rap songs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rohfosho/RapGenerator.git"
+  },
+  "keywords": [
+    "rap",
+    "generator",
+    "markov"
+  ],
+  "author": "Rohith Varanasi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rohfosho/RapGenerator/issues"
+  },
+  "homepage": "https://github.com/Rohfosho/RapGenerator",
+  "dependencies": {
+    "markovchain": "0.0.4"
+  }
+}
