@@ -1,13 +1,46 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+/* This CSS is atrocious and I'm sorry :( */
+body{
+	background-color: #333333;
+	color: white;
+	font-family: 'Helvetica Neue', sans-serif;
+	padding: 10px;
 }
 
-a {
-  color: #00B7FF;
+.top h1{
+	font-size: 3em;
 }
 
-h1 {
-  margin-left: auto;
-  margin-right: auto;
+.content{
+	width: 700px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+.content .generatedRap{
+	text-align: left;
+	border-left: solid 10px #87D37C;
+	padding-left: 10px;
+}
+
+.content .button{
+	text-align: center;
+	width: 250px;
+	height: 64px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	background-color: #87D37C;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding: 10px;
+	padding-top: 30px;
+	color: white;
+	font-size: 2em;
+
+}
+
+.bottom{
+	color: #444444;
+	position: absolute;
+		left: 10px;
+		bottom: 10px	;
 }
