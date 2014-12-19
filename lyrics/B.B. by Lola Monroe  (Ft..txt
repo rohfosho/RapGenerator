@@ -1,0 +1,45 @@
+[Intro: Juicy J]
+Ya'll know the business man
+Ya'll gon' have to pay all her motherfucking bills nigga, cash
+Ya, I see that new bentley truck nigga you gon' have to buy that shit nigga
+Uh huh, ya it does cost a lot motherfucka
+But she worth it, know the business nigga
+The realest trippy chick nigga
+
+[Verse 1: Lola Monroe]
+Hey, yo, Chev, tell these bammers we the best for real
+Ay, yo, Juice point out the next bitch for me to kill
+Kill mo', whats the deal though
+Fuck all these pussies, no dildo
+Let me introduce muah, see I'm the coldest bitch to introduce you
+To the coldest shit your intros too small
+This big shit we a big deal this must have been how B.I.G. feel
+Unstoppable, untoppable, this shit a breeze my writing so tropical
+Leave them sucking for them hoes no Popsicles
+Taylor Givenchy gowns and it ain't coppable
+
+[Hook]
+Ya, she Taylor'd up on some boss shit (X3)
+Living life on some fuck the cost shit (X3)
+Bout that money you know she all in (X3)
+Now you tell me who the boss bitch (X3)
+
+[Verse 2: Chevy Woods]
+Uh, Versace pieces come out in the summer
+She been getting this bread but now these bitches want it
+They talk about it but she really do it
+Fuck that old shit she be always in the newest
+If want to bullshit ya you gotta go
+Show some courtesy my nigga ya that's miss Monroe
+Bout that money we ain't trippin' ya we making that
+Put that on the gang and that's fame nigga Taylor that
+
+[Hook]
+
+[Outro: Juicy J]
+Hope you motherfuckas got ya cash up
+Uh huh, ya it's very expensive nigga
+The conversation, just to get on the phone is expensive nigga
+Ya nigga, cash
+Good job nigga, take care of your mom nigga
+(hook in backround)
