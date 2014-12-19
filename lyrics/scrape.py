@@ -4,7 +4,7 @@ import requests
 
 
 BASE_URL = "http://genius.com"
-artist_url = "http://genius.com/artists/Childish-gambino/"
+artist_url = "http://genius.com/artists/Kendrick-lamar/"
 
 response = requests.get(artist_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36'})
 
