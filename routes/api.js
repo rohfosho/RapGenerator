@@ -40,10 +40,7 @@ function mashEmUp(){
           var temp = sentence.split(' '); 
         }
       });
-    if(index < songsToMash.length-1)
-      index++;
-    else
-      index = 0;
+    (index < songsToMash.length-1)?index++:index = 0;
   }
 
   return lyricz;
