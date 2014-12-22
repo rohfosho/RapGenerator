@@ -26,6 +26,9 @@ li{
 	padding-left: 10px;
 }
 
+.generatedRap li{
+	list-style-type: none;
+}
 .content .button{
 	text-align: center;
 	width: 250px;
