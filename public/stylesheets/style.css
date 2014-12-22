@@ -6,6 +6,10 @@ body{
 	padding: 10px;
 }
 
+li{
+  list-style-type: decimal;
+}
+
 .top h1{
 	font-size: 3em;
 }
